@@ -5,7 +5,6 @@
 * log : 커밋 로그를 보여준다.
 
 ## 첫번째 커밋
-
 1. init : 현재 로컬 폴더에 .git폴더를 만들어준다.
 2. add . : 현재 로컬 폴더를 전부 추가한다
 3. commit -m "메세지" : commit하기!
@@ -13,5 +12,4 @@
 5. push origin master : origin이라는 리모트에 master라는 브랜치로 푸시
 
 ## pull도 해보기
-
 > git pull origin master
