@@ -15,9 +15,9 @@
 > git pull origin master
 
 ## Branch
-git branch : 현재 브랜치 목록
-git checkout -b {이름} : 새로운 브랜치를 만든다.
-git branch {이름} : 해당 브랜치로 이동 -> 로컬 파일도 바뀐다!
+* git branch : 현재 브랜치 목록
+* git checkout -b {이름} : 새로운 브랜치를 만든다.
+* git branch {이름} : 해당 브랜치로 이동 -> 로컬 파일도 바뀐다!
 
 ## Conflict 로컬에서 해결하기
 1. git remote add upsteam {원래 리포지토리 주소} : git remote -v로 리모트에 upsteam이 추가 되었는지 확인
